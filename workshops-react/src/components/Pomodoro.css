@@ -1,0 +1,13 @@
+.navigation {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.navigation li {
+  list-style: none outside none;
+}
+
+.navigation .active {
+  background: lightblue;
+}
